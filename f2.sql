@@ -1,2 +1,3 @@
 SELECT *
 FROM ta1
+WHERE f1 = 1;
